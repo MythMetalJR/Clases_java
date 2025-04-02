@@ -62,7 +62,7 @@ if(operacion == 0){
 //Si la nota es mayor o igual que 90, imprima "Excelente"
 //Si es de 70 a 89 es "Aprobado"
 //Si es menor de 70 "Reprueba"
-int notaF =40 ;
+int notaF =80 ;
 if((notaF >=0) && (notaF <= 100)){
     if(notaF >= 90){
     System.out.println("Tu nota es: "+notaF+", Aprobado.");
